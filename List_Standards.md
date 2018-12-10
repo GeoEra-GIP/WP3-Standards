@@ -1,11 +1,11 @@
 # Potential Applicable Standards
 
-# Groundwater
+## Groundwater
 
-# Geothermal
+## Geothermal
 
-# Minerals/Raw Materials
+## Minerals/Raw Materials
 
-# Hydrocarbons
+## Hydrocarbons
 
-# 3D Data
+## 3D Data
