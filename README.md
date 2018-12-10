@@ -3,7 +3,6 @@
 
 ## Partners
 
-Inline-style: 
 ![alt text](https://github.com/GeoEra-GIP/WP3-Standards/blob/master/WP3_Partners.PNG "Logo Title Text 1")
 
 
